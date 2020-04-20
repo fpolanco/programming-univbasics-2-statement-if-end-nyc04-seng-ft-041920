@@ -1,5 +1,5 @@
 num = number
-if num.even?
+if 
   puts "Even!"
 
 end
