@@ -1,1 +1,5 @@
-# Write your solution here
+num = number
+if num.even?
+  puts "Even!"
+
+end
