@@ -1,5 +1,5 @@
-num = number
-if 
+
+if
   puts "Even!"
 
 end
